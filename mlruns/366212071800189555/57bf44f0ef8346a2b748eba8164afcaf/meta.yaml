@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/366212071800189555/57bf44f0ef8346a2b748eba8164afcaf/artifacts
+end_time: 1761102249420
+entry_point_name: ''
+experiment_id: '366212071800189555'
+lifecycle_stage: active
+run_id: 57bf44f0ef8346a2b748eba8164afcaf
+run_name: judicious-cow-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761102234605
+status: 3
+tags: []
+user_id: mmich
